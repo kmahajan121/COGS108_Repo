@@ -1,2 +1,2 @@
 # COGS108_Repo
-cons108
+cogs108
